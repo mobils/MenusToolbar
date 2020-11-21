@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MenusToolbar</string>
+    <string name="aboutMessage">Esta aplicación ha sido desarrollada por alumnos de Educem</string>
+    <string name="action_settings">Configuración</string>
+
+    <string name="aboutTitle">"Sobre nosotros "</string>
+    <string name="aboutText">"Esta aplicación ha sido desarrollada en el 2020 por alumnos de DAM del Educem.  "</string>
+
+</resources>
